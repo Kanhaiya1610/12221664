@@ -35,6 +35,7 @@ This is a reusable logging middleware package developed for the Affordmed evalua
   - Frontend: `api`, `component`, `hook`, `page`, `state`, `style`
   - Both: `auth`, `config`, `middleware`, `utils`
 
+```
 ## Project Structure
 
 Logging Middleware/
@@ -88,6 +89,7 @@ This is a sample Spring Boot backend application that demonstrates the usage of 
 ## Project Structure
 
 ```
+```
 Backend Test Submission/
 ├── pom.xml
 └── src/
@@ -97,8 +99,9 @@ Backend Test Submission/
                 └── backendtestsubmission/
                     ├── BackendTestSubmissionApplication.java
                     └── BackendTestController.java
+```
 
-
+```
 Backend Test Submission/
 ├── pom.xml
 └── src/
@@ -108,7 +111,7 @@ Backend Test Submission/
 └── backendtestsubmission/
 ├── BackendTestSubmissionApplication.java
 └── BackendTestController.java
-
+```
 ## Example Response
 {
     "logID": "32864666-7ee1-4eac-a54a-62a191b72b46",
